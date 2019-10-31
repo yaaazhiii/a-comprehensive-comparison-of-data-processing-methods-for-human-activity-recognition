@@ -20,17 +20,11 @@ Our human activity recognition model uses Long Short-Term Memory (LSTM) networks
 
 # SECTION 4 : USER GUIDE
 Download source code:
-
 $ git clone git@github.com:davidygp/a-comprehensive-comparison-of-data-processing-methods-for-human-activity-recognition.git
 
-Download MAREA dataset:
+Download MAREA dataset: (Please speak to MAREA authors to obtain the data.)
 
-(Please speak to MAREA authors to obtain the data.)
-
-Place source code adjacent to the "MAREA_dataset" folder.
-
-Open the .ipynb file:
-
+Place source code adjacent to the "MAREA_dataset" folder, open the .ipynb file:
 $ jupyter notebook
 
 # SECTION 5 : PROJECT REPORT / PAPER
