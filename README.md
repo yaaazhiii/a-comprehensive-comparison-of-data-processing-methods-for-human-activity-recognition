@@ -30,4 +30,4 @@ Place source code adjacent to the "MAREA_dataset" folder, open the .ipynb file:
 $ jupyter notebook
 
 # SECTION 5 : PROJECT REPORT / PAPER
-https://github.com/davidygp/a-comprehensive-comparison-of-data-processing-methods-for-human-activity-recognition/blob/master/ProjectReport/Report.pdf
+https://github.com/davidygp/a-comprehensive-comparison-of-data-processing-methods-for-human-activity-recognition/blob/master/ProjectReport/report.pdf
