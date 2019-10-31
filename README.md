@@ -1,6 +1,6 @@
 # SECTION 1 : PROJECT TITLE
 A comprehensive comparison of data processing methods for human activity recognition from accelerometer-based data.
-
+<img width="812" alt="welcome" src="https://user-images.githubusercontent.com/31118924/67949601-ed30d980-fc22-11e9-9570-ad92a51bdd1d.jpg"> 
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 Prediction of human activity has become more valuable in daily life. Providing accurate information based on people’s activities and behaviours can help in health, medical, security, entertainment and many scenes that are closely related to people's lives. Human activity recognition systems have been an active field in the past with the relevant features extracted from wearable sensors.
