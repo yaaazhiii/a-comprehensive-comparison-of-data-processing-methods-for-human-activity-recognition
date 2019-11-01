@@ -15,7 +15,7 @@ Our human activity recognition model uses Long Short-Term Memory (LSTM) networks
 | GUO FENG 		| A0195173Y | Problem Structuring, Data Exploration, Initial Data Processing, Baselining, Noise Removal, Model Training, Project Report | e0384804@u.nus.edu |
 | LU JIAHAO 		| A0091835Y | Problem Structuring, Data Exploration, Model Training, Peak Analysis, Project Report| e0384293@u.nus.edu |
 | YAM GUI PENG DAVID 	| A0195315A | Problem Structuring, Data Exploration, Model Training, Peak Analysis, Window Methods, Project Report | e0384946@u.nus.edu |
-| ZHAO YAZHI 		| A0195305E | Problem Structuring, Data Exploration, Wavelet Transform, FFT Transform, Model Training | e0384936@u.nus.edu |
+| ZHAO YAZHI 		| A0195305E | Problem Structuring, Data Exploration, Wavelet Transform, FFT Transform, Model Training, Project Report | e0384936@u.nus.edu |
 
 
 # SECTION 4 : USER GUIDE
